@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.merchantNavbar {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(212, 163, 104);
+}
+.options a {
+    color: crimson;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0px 30px;
+}
+
+.logo {
+    color: brown;
+    font-style: italic;
+}
+
+.logo h1 {
+    color: crimson;
+    font-style: italic;
+    display: flex;
+}
